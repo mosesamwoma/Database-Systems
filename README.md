@@ -9,7 +9,7 @@ The Data Diggers team has developed a database management system for the school 
 | Name | Registration Number |
 |------|---------------------|
 | [MOSES AMWOMA] | [CT204/119586/24] |
-| [MAINA NDERITU] | [Reg. No.] |
+| [MAINA NDERITU] | [CT204/120640/24] |
 | [RONNY WESLEY] | [Reg. No.] |
 | [KAREN GITAU] | [Reg. No.] |
 | [ESTHER KWAMBOKA] | [Reg. No.] |
