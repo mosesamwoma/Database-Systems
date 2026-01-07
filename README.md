@@ -2,20 +2,20 @@
 
 ## Project Overview
 
-The Data Diggers team has developed a database management system for the school clinic to streamline patient records, appointment scheduling, inventory management, and medical reporting.
+The Data Diggers team has developed a comprehensive database management system for the school clinic to streamline patient records, appointment scheduling, inventory management, and medical reporting.
 
 ## Team Members
 
 | Name | Registration Number |
 |------|---------------------|
-| [MOSES AMWOMA] | [CT204/119586/24] |
-| [MAINA NDERITU] | [CT204/120640/24] |
-| [RONNY WESLEY] | [Reg. No.] |
-| [KAREN GITAU] | [Reg. No.] |
-| [ESTHER KWAMBOKA] | [Reg. No.] |
-| [SHADRACK MANDELA] | [Reg. No.] |
-| [PAUL NAIRENYU] | [Reg. No.] |
-| [PERIS WANGECI] | [Reg. No.] |
+| Moses Amwoma | CT204/119586/24 |
+| Maina Nderitu | CT204/120640/24 |
+| Ronny Wesley | [Reg. No.] |
+| Karen Gitau | [Reg. No.] |
+| Esther Kwamboka | [Reg. No.] |
+| Shadrack Mandela | [Reg. No.] |
+| Paul Nairenyu | [Reg. No.] |
+| Peris Wangeci | [Reg. No.] |
 
 ## Project Purpose
 
